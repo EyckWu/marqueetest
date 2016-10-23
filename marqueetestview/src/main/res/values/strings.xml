@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarqueeTestView</string>
+    <string name="hello">Hello World!Hello Android Studio!Hello World!Hello Android Studio!Hello World!Hello Android Studio!</string>
+</resources>
